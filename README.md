@@ -27,7 +27,7 @@ The Node-RED integrates broker and agents using __dummy entities__. They are jac
 
 In this demo, for didactical reasons, the MQTT broker is differently modeled in the two JaCaMo applications. On one hand, alice interacts with MQTT as if it were another agent, i.e., via ACL message. On the other hand, MQTT is an artifact for bob, who can execute its operations and perceive its signals and observable properties.
 
-<img src="./figures/dummies-overview.png" width="600">
+<img src="./figures/dummies-overview.PNG" width="600">
 
 ## Running with Docker
 #### Prerequisites:
