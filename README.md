@@ -40,7 +40,7 @@ In this demo, for didactical reasons, the MQTT broker is differently modeled in 
 
 2. Open a command-line shell and run Node-RED and JaCaMo applications via Docker Compose:
   ```bash
-  docker-compose -f docker-compose.yml -p your_project_name up
+  docker-compose up
   ```
 
 
